@@ -1,0 +1,217 @@
+*{
+    margin: 0; left: 0;
+}
+.zong{
+    width: 1920;height: 5000px;
+    background-color: aqua;
+}
+.banner{
+    width: 1920px;height: 1097px;
+    background: url(img/banner.jpg);
+}
+ .logo img{
+ position: absolute;
+ left: 200px;top:15px;
+}
+.navigation ul li{
+    line-height:90px;
+    height:90px;
+    width:100px;
+    float:left;
+    margin:0px 10px;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    /* text-align: center; */
+    list-style: none;
+    color:#fff;
+}
+.navigation ul{
+   position: absolute;
+   left: 400px;
+   top: 10px;
+}
+.navigation h1{
+   position: absolute;
+   top: 490px;
+   left: 720px;
+    font-size: 38px;
+    color: #fff;
+}
+.navigation p{
+    width: 800px;
+    position: absolute;
+    left: 600px;
+    top: 555px;
+    font-size: 24px;
+    line-height: 35px;
+    color: #e4e3f3;
+}
+/* 第二屏 */
+.content{
+    width: 1920px;
+    height: 480px;
+}
+.one {
+    width: 320px;height: 543px;
+    position: absolute;
+    top: 1300px;
+    background:url(img/1.jpg);
+}
+.one .iconfont{
+    position: relative;
+    top: 250px;
+    left:110px;
+}
+.two  {
+    background: url(img/2.jpg);
+    width: 320px;height: 543px;
+    position: absolute;
+    top: 1300px;
+    left:320px;
+}
+.two .iconfont{
+    position: relative;
+    top: 250px;
+    left:110px;
+}
+.three{
+    background: url(img/3.jpg);
+    width: 320px;height: 543px;
+    position: absolute;
+    top: 1300px;
+    left:640px;
+}
+.three .iconfont{
+    
+    position: relative;
+    top: 250px;
+    left:110px;
+}
+.four {
+    background: url(img/4.jpg);
+    width: 320px;height: 543px;
+    position: absolute;
+    top: 1300px;
+    left:960px;
+}
+.four .iconfont{
+    
+    position: relative;
+    top: 250px;
+    left:110px;
+}
+.five{
+    background: url(img/5.jpg);
+    width: 320px;height: 543px;
+    position: absolute;
+    top: 1300px;
+    left:1279px;
+}
+.five .iconfont{
+    
+    position: relative;
+    top: 250px;
+    left:110px;
+}
+.six{
+    background: url(img/6.jpg);
+    width: 320px;height: 543px;
+    position: absolute;
+    top: 1300px;
+    left:1599px;
+}
+.six .iconfont{
+    
+    position: relative;
+    top: 250px;
+    left:110px;
+}
+.tit1{
+    font-size: 36px;
+    color: #333;
+    padding-bottom: 28px;
+    position: relative;
+    left: 830px;
+    top: 60px;
+}
+.tit2{
+    font-size: 6px;
+    color: #333;
+    padding-bottom: 28px;
+    position: relative;
+    left: 750px;
+    top: 55px;
+}
+
+.tit{
+    width: 1920px;height: 205px;
+    background-color: azure;
+}
+.content h3{
+    position: absolute;
+    top: 350px;left: 100px;
+}
+/* 第三屏 */
+.third-screen{
+    width: 4000px;
+
+    background: url(img/智力.jpg);
+    position: relative;
+    top: 260px;
+}
+.third-one{
+    position: relative;
+    left: 900px;
+}
+.third-screen h1{
+    color: #fff;
+    position: relative;
+    left: 450px;
+    top: -250px;
+}
+.third-screen h3{
+    color: #fff;
+    position: relative;
+    left: 450px;
+    top: -210px;
+    font-size: 20px;}
+.third-box{
+    width: 80px;height: 40px;
+    border: 1px #00c5dc solid;
+    position: relative;
+    left: 450px;
+    top: -150px;
+    border-radius: 10px;
+}
+.third-box p{
+    margin-left: 9px;
+    margin-top: 10px;
+    font-size: 15px;
+    color:#00c5dc ;
+}
+.four-one{
+    width: 1920px;height: 856px;
+    background-color:#083054  ;
+    position: relative;
+    top: 260px;
+}
+.four-one img{
+    position: relative;
+    left: 350px;
+    top: 170px;
+}
+.four-one h1{
+  position: relative;
+  left: 860px;
+    top: -600px;
+    color: #fff;
+    font-size: 36px;
+}
+.four-one p{
+    position: relative;
+    left: 740px;
+    top: -570px;
+    color: #fff;
+    font-size: 16px;
+}

@@ -1,0 +1,44 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "297530",
+      "name": "货车",
+      "font_class": "huoche",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "1377406",
+      "name": "货车 (2)",
+      "font_class": "huoche1",
+      "unicode": "e686",
+      "unicode_decimal": 59014
+    },
+    {
+      "icon_id": "4569515",
+      "name": "货车",
+      "font_class": "huoche2",
+      "unicode": "e576",
+      "unicode_decimal": 58742
+    },
+    {
+      "icon_id": "7727165",
+      "name": "货车",
+      "font_class": "huoche3",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "10352724",
+      "name": "货车",
+      "font_class": "huoche4",
+      "unicode": "e61e",
+      "unicode_decimal": 58910
+    }
+  ]
+}
